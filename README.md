@@ -49,7 +49,7 @@ An automated attendance system that uses **geolocation verification** to mark st
 
 ### 👨‍💼 Author
 
-**Aniket Adarsh, Aditya Sharma, Subhash Sharma, Sahil K Gupta**
+**Aniket Adarsh, Aditya Sharma, Subhash Sharma, Sahil K Gupta, Akriti Kumari**
 📍 Dehradun, India
 ✉️ [aniketofficial540@gmail.com](mailto:aniketofficial540@gmail.com)
 
